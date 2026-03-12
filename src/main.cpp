@@ -28,7 +28,7 @@ float lastY = 600.0f / 2.0;
 
 float deltaTime = 0.0f;
 float lastFrame = 0.0f;
-
+lastY
 int main()
 {
     glfwInit();
